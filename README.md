@@ -1,7 +1,6 @@
 # Online Fraud Detection Project 
 
-### Find Jupyter Notebook With the following link: [Link to Jupyter Notebook](https://github.com/shobhitbhaumik/Online-Fraud_Detection/blob/main/OnlineFraudModel.ipynb)
-
+### Find Jupyter Notebook With the following link: [Link to Jupyter Notebook](./OnlineFraudModel.ipynb)
 
 ## Table of Contents
 ### 1.Overview
