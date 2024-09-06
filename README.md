@@ -6,6 +6,8 @@
 ### 1.Overview
 ### 2. Data Description
 ### 3. Exploratory Data Analysis
+### 4. Classification Model
+### 5. Tableau Dashboard
 <br><br>
 
 ## Overview 
@@ -66,6 +68,11 @@ to understand the data and build a classification model that will be able to pre
 
 ### Model Comparison
 <img src="https://github.com/user-attachments/assets/56e6528f-18de-4aa7-8101-be45a558a602" width="600" height="400">
+
+
+## Tableau Dashboard
+![image](https://github.com/user-attachments/assets/f3861628-7448-4344-b5c0-3a9dca83b760)
+
 
 
 
